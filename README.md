@@ -45,7 +45,7 @@ These are answered step-by-step with code snippets, allowing reviewers to see yo
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/USERNAME/AI_Mentor.git
+git clone https://github.com/So_451/AI_Mentor.git
 cd AI_Mentor
 ```
 
