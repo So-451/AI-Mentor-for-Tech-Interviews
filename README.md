@@ -4,6 +4,13 @@
 
 ---
 
+## AI Mentor Demo
+
+Here is a screenshot of the AI Mentor in action:
+
+![AI Mentor answering a tricky DSA question](Examples/ai_answer1.png)
+![AI Mentor gicing code_snippets](Examples/ai_answer2.png)
+
 ## 🚀 Key Features
 
 - Conversational AI to answer technical questions.
