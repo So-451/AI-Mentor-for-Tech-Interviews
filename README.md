@@ -25,8 +25,6 @@ To showcase the AI Mentor in action:
 - **Graph Traversal** – BFS/DFS questions for shortest paths or connectivity.
 - **Dynamic Programming** – Classic problems like Coin Change, Longest Increasing Subsequence.
 
-These are answered step-by-step with code snippets, allowing reviewers to see your project live in action.
-
 ---
 
 ## 🛠 Tech Stack
