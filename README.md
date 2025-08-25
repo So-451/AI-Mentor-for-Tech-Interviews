@@ -27,7 +27,7 @@
 **Prerequisites**:
 
 - Python 3.11+
-- Ollama
+- [Ollama](https://ollama.com/)
 - llama3 model (pull using Ollama):
 
 ```bash
