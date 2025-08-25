@@ -16,18 +16,6 @@
 
 ---
 
-## 🧩 Tricky Sample Questions
-
-To showcase the AI Mentor in action:
-
-- **Two Sum Problem** – Find indices of two numbers that sum to a target.
-- **Maximum Subarray (Kadane’s Algorithm)** – Find the largest sum of contiguous subarray.
-- **KMP Algorithm** – Pattern matching in strings.
-- **Graph Traversal** – BFS/DFS questions for shortest paths or connectivity.
-- **Dynamic Programming** – Classic problems like Coin Change, Longest Increasing Subsequence.
-
----
-
 ## 🛠 Tech Stack
 
 - **Backend & LLM**: LangChain, Ollama (using **llama3** model)
