@@ -24,7 +24,7 @@
 - **Frontend**: Gradio (Blocks & Chatbot)
 
 ---
-**Prerequisites**:
+## Prerequisites
 
 - Python 3.11+
 - [Ollama](https://ollama.com/)
