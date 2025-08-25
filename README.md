@@ -95,15 +95,7 @@ AI_Mentor/
 
 ---
 
-## 🔧 GitHub Tips
 
-- Add a `.gitignore` to skip:
-  - Virtual environment: `.venv/`
-  - Chroma DB: `chroma_db/`
-  - PDF notes: `*.pdf`
-- Keep the repository lightweight for better GitHub experience.
-
----
 
 ## 🌟 Future Improvements
 
