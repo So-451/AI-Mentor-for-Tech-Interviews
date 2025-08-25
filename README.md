@@ -12,6 +12,7 @@
 - Step-by-step explanations for tricky DSA problems.
 - Tracks session history for ongoing learning.
 - Handles multiple topics: arrays, strings, recursion, graphs, dynamic programming, etc.
+- Model Used: llama3 via Ollama (local LLM).
 
 ---
 
@@ -35,7 +36,17 @@ To showcase the AI Mentor in action:
 - **Frontend**: Gradio (Blocks & Chatbot)
 
 ---
+**Prerequisites**:
 
+- Python 3.11+
+- Ollama
+- llama3 model (pull using Ollama):
+
+```bash
+ollama pull llama3
+```
+
+---
 ## 💻 Installation
 
 1. **Clone the repository**:
