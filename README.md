@@ -29,12 +29,10 @@ To showcase the AI Mentor in action:
 
 ## 🛠 Tech Stack
 
-- **Python 3.11**
-- **LangChain** for conversational AI
-- **HuggingFace Embeddings** for semantic search
-- **Chroma** vector database
-- **Gradio** for web UI
-- **pdfplumber** for extracting PDF content
+- **Backend & LLM**: LangChain, Ollama (using **llama3** model)
+- **Vector Store**: Chroma + HuggingFace Embeddings
+- **PDF Parsing**: pdfplumber
+- **Frontend**: Gradio (Blocks & Chatbot)
 
 ---
 
