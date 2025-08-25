@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.env
+.venv/
+*.env
+
+# VS Code
+.vscode/
+
+# Data / Models
+*.db
+*.sqlite3
+*.pkl
+*.pt
+*.h5
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PDF files (optional if large)
+*.pdf
+
+# Chroma DB (your vector DB folder)
+chroma_db/
