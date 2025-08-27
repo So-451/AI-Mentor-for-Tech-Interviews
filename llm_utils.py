@@ -1,4 +1,4 @@
-#Sets up your LLM + conversational chain.
+#Sets up LLM + conversational chain.
 from langchain_community.chat_models import ChatOllama
 from langchain.chains import ConversationalRetrievalChain
 from config import MODEL_NAME

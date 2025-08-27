@@ -9,8 +9,7 @@ To activate virtual environment
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .\\.venv\\Scripts\\Activate.ps1
 
-docker run -p 7860:7860 ai-mentor
-ngrok http 7860
+
 
 
 ''' 
